@@ -1,0 +1,6 @@
+INDEX VERSION 1.2+C:\Users\uswbdnu\IBM\rationalsdp\workspace\EAI_queues\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2880329659.index
+1390731218.index
+706248715.index
+2331049555.index
+2644737349.index

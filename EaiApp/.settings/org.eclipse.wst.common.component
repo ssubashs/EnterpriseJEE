@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="EaiApp">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="EaiAppEJB.jar" deploy-path="/" handle="module:/resource/EaiAppEJB/EaiAppEJB">
+            <dependent-object>Module_1438025910724</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="EaiAppWeb.war" deploy-path="/" handle="module:/resource/EaiAppWeb/EaiAppWeb">
+            <dependent-object>Module_1438025910794</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

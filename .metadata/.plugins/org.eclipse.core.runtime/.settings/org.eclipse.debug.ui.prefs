@@ -1,0 +1,7 @@
+#Mon Jul 27 12:43:34 PDT 2015
+eclipse.preferences.version=1
+DEBUG.consoleOpenOnOut=false
+preferredTargets=default\:default|
+DEBUG.consoleOpenOnErr=false
+org.eclipse.debug.ui.save_dirty_editors_before_launch=never
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8"?><launchPerspectives/>

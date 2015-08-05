@@ -1,0 +1,12 @@
+<CommonBaseEvent creationTime="2015-07-27T18:31:55.640000Z" globalInstanceId="AD8358AD7F0C438B81BEFF6B4514860F" msg="Native file server started listening on port 10005" severity="10" version="1.0.1">
+	<sourceComponentId component="AgentController" componentIdType="TPTPComponent" executionEnvironment=".\ClientCTL.c, line 672" instanceId="1004" location="WL-DQ25NX1" locationType="IPV4" processId="9512" subComponent="Client Compatibility TL" threadId="9196" componentType="Eclipse_TPTP"/>
+	<situation categoryName="ReportSituation">
+		<situationType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ReportSituation" reasoningScope="INTERNAL" reportCategory="LOG"/>
+	</situation>
+</CommonBaseEvent>
+<CommonBaseEvent creationTime="2015-07-27T19:53:34.044000Z" globalInstanceId="AFD28CBBDEA5444EB3AF626DC28D88A3" msg="Agent Controller shutdown requested through ACTL" severity="30" version="1.0.1">
+	<sourceComponentId component="AgentController" componentIdType="TPTPComponent" executionEnvironment=".\ACTLServer.c, line 376" instanceId="1005" location="WL-DQ25NX1" locationType="IPV4" processId="9512" subComponent="Agent Compatibility TL" threadId="10000" componentType="Eclipse_TPTP"/>
+	<situation categoryName="ReportSituation">
+		<situationType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ReportSituation" reasoningScope="INTERNAL" reportCategory="LOG"/>
+	</situation>
+</CommonBaseEvent>

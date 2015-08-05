@@ -1,0 +1,5 @@
+#Mon Jul 27 12:53:33 PDT 2015
+profilingTypeSets=<?xml version\="1.0" encoding\="UTF-8"?><profilingSets><profilingSet id\="org.eclipse.hyades.defaultProfilingSets.empty" name\="Empty profiling set" description\="Placeholder profiling set for backwards compatibility."><profilingTypes></profilingTypes><attributes><attribute name\="SETOPTION_TICKET" value\="true"/><attribute name\="SETOPTION_TRACE_MODE" value\="none"/><attribute name\="SETOPTION_ALLOCATION_INFORMATION" value\="none"/><attribute name\="SETOPTION_STACK_INFORMATION" value\="none"/></attributes></profilingSet><profilingSet id\="tptp-dummy-profiling-set-WebSphere Application Server v7.0 at localhost" name\="DummyProfilingSet" description\="Programmatically Created"><profilingTypes></profilingTypes><attributes><attribute name\="SETOPTION_TICKET" value\="true"/><attribute name\="SETOPTION_ALLOCATION_INFORMATION" value\="none"/><attribute name\="SETOPTION_TRACE_MODE" value\="none"/><attribute name\="SETOPTION_STACK_INFORMATION" value\="none"/></attributes></profilingSet></profilingSets>
+defaultProfilingSet=org.eclipse.hyades.defaultProfilingSets.empty
+eclipse.preferences.version=1
+HOSTPREF_UPDATED=true
